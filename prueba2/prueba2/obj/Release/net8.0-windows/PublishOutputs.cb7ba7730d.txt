@@ -1,0 +1,5 @@
+C:\PruebaClickOnce\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.exe
+C:\PruebaClickOnce\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.dll
+C:\PruebaClickOnce\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.deps.json
+C:\PruebaClickOnce\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.runtimeconfig.json
+C:\PruebaClickOnce\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.pdb

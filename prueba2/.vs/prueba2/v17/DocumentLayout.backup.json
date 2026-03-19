@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\auxiliar.desarrollo\\Desktop\\prueba2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\PruebaClickOnce\\prueba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54DB2AFC-C1AF-4B1F-9756-AC923838A322}|prueba2\\prueba2.csproj|c:\\pruebaclickonce\\prueba2\\prueba2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54DB2AFC-C1AF-4B1F-9756-AC923838A322}|prueba2\\prueba2.csproj|solutionrelative:prueba2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PruebaClickOnce\\prueba2\\prueba2\\Form1.cs",
+              "RelativeDocumentMoniker": "prueba2\\Form1.cs",
+              "ToolTip": "C:\\PruebaClickOnce\\prueba2\\prueba2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "prueba2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:10:55.919Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

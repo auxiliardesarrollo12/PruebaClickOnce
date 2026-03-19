@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fZ1E6Eqi20/nbFZviPXQqj3SOIZ75YWfM9GYIak3tcU=</dsig:DigestValue>
+      <dsig:DigestValue>8t6rYDKhwEIq9vRI+kOCcMWDR7l73BeQLhyS1Go2qBo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="prueba2.exe" size="151552">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bF8n8XUlVIDxab0C3+SvN6VbGs0PlMKOfEk2MLg7q9Y=</dsig:DigestValue>
+      <dsig:DigestValue>Y6aaWKcrcY+rG2bLyr2ZCFtsMDurrM8D/neRYEYc1d8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="prueba2.runtimeconfig.json" size="515">
