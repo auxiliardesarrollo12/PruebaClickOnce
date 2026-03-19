@@ -1,0 +1,5 @@
+C:\Users\auxiliar.desarrollo\Desktop\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.exe
+C:\Users\auxiliar.desarrollo\Desktop\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.dll
+C:\Users\auxiliar.desarrollo\Desktop\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.deps.json
+C:\Users\auxiliar.desarrollo\Desktop\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.runtimeconfig.json
+C:\Users\auxiliar.desarrollo\Desktop\prueba2\prueba2\bin\Release\net8.0-windows\app.publish\prueba2.pdb
